@@ -25,3 +25,5 @@
 4. [Test Train](https://github.com/noahmm35/CS445/tree/main/Test%20Train)
 
    Cleaning Data, Neural Networks (single layer)
+   
+   Included is an inital dataset to work with and 'feature_dictionary' to outline questions asked within sample survey
