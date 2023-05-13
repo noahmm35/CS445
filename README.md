@@ -1,6 +1,6 @@
 ## CS445: Artificial Intelligence
 
-**Quick Note:** Some of these projects have zip files included, these exist to run the pacman game or hold the multitude of files needed to run what I was working on (provided by Professor Gupta). If you choose to look at what I have done/ run the autograder, feel free to unzip. The other files within each directory include code that I have written to accomplish a specific task. Said tasks are outlines within the project descriptions also included within each directory! 
+**Quick Note:** Some of these projects have zip files included, these exist to run the pacman game or hold the multitude of files needed to run what I was working on (provided by Professor Gupta). If you choose to look at what I have done/ run the autograder, feel free to unzip. The other files within each directory include code that I have written to accomplish a specific task. So you may need to swap the zipped verion of a file with the file I have provided in the directory! Said tasks are outlines within the project descriptions also included within each directory! 
 
 ### Projects Above:
 
